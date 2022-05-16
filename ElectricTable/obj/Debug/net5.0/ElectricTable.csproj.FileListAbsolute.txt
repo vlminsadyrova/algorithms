@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\bin\Debug\net5.0\ElectricTable.exe
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\bin\Debug\net5.0\ElectricTable.deps.json
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\bin\Debug\net5.0\ElectricTable.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\bin\Debug\net5.0\ElectricTable.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\bin\Debug\net5.0\ElectricTable.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\bin\Debug\net5.0\ref\ElectricTable.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\bin\Debug\net5.0\ElectricTable.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ref\ElectricTable.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\ElectricTable\obj\Debug\net5.0\ElectricTable.genruntimeconfig.cache

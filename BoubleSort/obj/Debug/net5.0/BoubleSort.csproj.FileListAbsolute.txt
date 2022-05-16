@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\bin\Debug\net5.0\BoubleSort.exe
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\bin\Debug\net5.0\BoubleSort.deps.json
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\bin\Debug\net5.0\BoubleSort.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\bin\Debug\net5.0\BoubleSort.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\bin\Debug\net5.0\BoubleSort.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\bin\Debug\net5.0\ref\BoubleSort.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\bin\Debug\net5.0\BoubleSort.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\ref\BoubleSort.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\BoubleSort\obj\Debug\net5.0\BoubleSort.genruntimeconfig.cache

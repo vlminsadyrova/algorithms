@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\bin\Debug\net5.0\oz.exe
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\bin\Debug\net5.0\oz.deps.json
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\bin\Debug\net5.0\oz.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\bin\Debug\net5.0\oz.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\bin\Debug\net5.0\oz.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\bin\Debug\net5.0\ref\oz.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\bin\Debug\net5.0\oz.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\ref\oz.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\oz\obj\Debug\net5.0\oz.genruntimeconfig.cache

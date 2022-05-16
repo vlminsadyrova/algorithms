@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\bin\Debug\net5.0\DictSchool.exe
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\bin\Debug\net5.0\DictSchool.deps.json
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\bin\Debug\net5.0\DictSchool.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\bin\Debug\net5.0\DictSchool.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\bin\Debug\net5.0\DictSchool.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\bin\Debug\net5.0\ref\DictSchool.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\bin\Debug\net5.0\DictSchool.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\ref\DictSchool.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\DictSchool\obj\Debug\net5.0\DictSchool.genruntimeconfig.cache

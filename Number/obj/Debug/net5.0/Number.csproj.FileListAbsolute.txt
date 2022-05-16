@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\bin\Debug\net5.0\Number.exe
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\bin\Debug\net5.0\Number.deps.json
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\bin\Debug\net5.0\Number.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\bin\Debug\net5.0\Number.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\bin\Debug\net5.0\Number.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\bin\Debug\net5.0\ref\Number.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\bin\Debug\net5.0\Number.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\ref\Number.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\Number\obj\Debug\net5.0\Number.genruntimeconfig.cache

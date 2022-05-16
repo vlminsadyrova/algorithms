@@ -1,0 +1,16 @@
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\bin\Debug\net5.0\Jump.exe
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\bin\Debug\net5.0\Jump.deps.json
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\bin\Debug\net5.0\Jump.runtimeconfig.json
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\bin\Debug\net5.0\Jump.runtimeconfig.dev.json
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\bin\Debug\net5.0\Jump.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\bin\Debug\net5.0\ref\Jump.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\bin\Debug\net5.0\Jump.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.csproj.AssemblyReference.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.AssemblyInfoInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.AssemblyInfo.cs
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.csproj.CoreCompileInputs.cache
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\ref\Jump.dll
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.pdb
+C:\Users\vlminsadyrova\source\repos\algorithms\algorithms\obj\Debug\net5.0\Jump.genruntimeconfig.cache
